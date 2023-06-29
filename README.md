@@ -1,5 +1,7 @@
 # Estimador-de-compresi-n
 Pequeño script desarrollado en AutoHotKey que le ayuda a obtener la reducción de ganancia con base en algunos parámetros del compresor
+
+[Descargar](https://github.com/FelipeZanabria/Estimador-de-compresi-n/releases/download/v1.0.0/Estimador.de.compresion.exe)
 ## Modo de uso:
 Al ejecutar el script aparecerá un diálogo con información básica sobre el modo de uso.
 Seguidamente, pulsa alt+shift+c cada vez que quieras lanzar el estimador.
