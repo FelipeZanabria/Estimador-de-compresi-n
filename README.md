@@ -12,7 +12,7 @@ Ingrese el nivel de entrada de la señal, por ejemplo -8.
 Ingrese el umbral del compresor, por ejemplo -12.
 #### Proporción:
 Ingrese la proporción (ratio) a comprimir, por ejemplo 4.
-Después de llenar los 3 campos solicitados, aparecerá una ventana con la cantidad máxima de ganancia que se aplicará al audio. Para mejor comodidad, el valor estará positivo, para que puedas copiar y pegar en control de ganancia de salida del compresor.
+Después de llenar los 3 campos solicitados, aparecerá una ventana con la cantidad máxima de ganancia que se aplicará al audio. Para mejor comodidad, el valor estará positivo, para que puedas copiar y pegar en el control de ganancia de salida del compresor.
 ##### Notas:
 1. Solo es posible introducir valores como estos en los plug-ins VST de Reaper, estando en la interfaz mostrada en la cadena de fx. Los VST que dependen de la lista de parámetros de osara solo permiten valores en bruto entre 0 y 1, de manera que 0 significa un parámetro a su nivel mínimo, y 1 significa el nivel máximo. En cambio, los efectos JS permiten números más amigables como 3, -5 etc, tanto en la interfaz en la cadena de fx como en la lista de parámetros de OSARA.
 2. El resultado del cálculo mostrado es el valor máximo de compresión, teniendo en cuenta que se ha introducido correctamente el nivel de pico de la señal de entrada.
